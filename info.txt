@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -Command  'ps2exe -noConsole -x64 "shell.ps1" "shell.exe"'
